@@ -1,5 +1,6 @@
 
 Dies ist ein Test eines Dokumentses
 Mit mehreren Lininen und Text
+NEW LINE
 Aber der nun in verschiedenen Schritten 
 Geändert wird
