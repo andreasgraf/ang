@@ -1,5 +1,5 @@
 
 Dies ist ein Test eines Dokumentses
 Mit mehreren Lininen und Text
-Aber der nun in verschiedenen Schritten 
+Aber der <merge 1> verschiedenen Schritten 
 Geändert wird
