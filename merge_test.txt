@@ -1,7 +1,8 @@
-
-Dies ist ein Test eines Dokumentses
-Mit mehreren Lininen und Text
+Dies ist ein Test eines Dokumentes
+Edit auf dem Github
+Mit mehreren Linien und Text
 Aber der <merge 1 Final> verschiedenen Schritten 
 Geändert wird
 Parallel lokal geändert
 Soll gepusht werden
+
